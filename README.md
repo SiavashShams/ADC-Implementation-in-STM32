@@ -1,2 +1,2 @@
 # ADC-implmentation-in-STM32
-Insturmentation course project#5
+Instrumentation course project#5
